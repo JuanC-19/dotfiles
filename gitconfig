@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jruiz07@gmail.com
+	name = Juan Ruiz
